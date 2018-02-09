@@ -1,0 +1,58 @@
+{
+    status: 'success',
+    data: {
+        list: [
+            {
+                km: 12,
+                type: 'miniature',
+                origin: '上海市灵石路718号',
+                origin_latitude: '12.121212',
+                origin_longitude: '12.121212',
+                destination: '北京市天安门',
+                destination_latitude: '12.121212',
+                destination_longitude: '12.121212',
+                start_date: '2012-11-11 10:23:12',
+                end_date: '2012-12-12 10:23:32',
+                price: 122,
+                status: 'default',
+                id: '1',
+                contact_name: '张三',
+                contact_tel: 13641822111
+            },
+            {
+                km: 12,
+                type: 'minibus',
+                origin: '上海市灵石路718号',
+                origin_latitude: '12.121212',
+                origin_longitude: '12.121212',
+                destination: '北京市天安门',
+                destination_latitude: '12.121212',
+                destination_longitude: '12.121212',
+                start_date: '2012-11-11 10:23:12',
+                end_date: '2012-12-12 10:23:32',
+                price: 122,
+                status: 'done',
+                id: '2',
+                contact_name: '张三',
+                contact_tel: 13641822111
+            },
+            {
+                km: 12,
+                type: 'coach',
+                origin: '上海市灵石路718号',
+                origin_latitude: '12.121212',
+                origin_longitude: '12.121212',
+                destination: '北京市天安门',
+                destination_latitude: '12.121212',
+                destination_longitude: '12.121212',
+                start_date: '2012-11-11 10:23:12',
+                end_date: '2012-12-12 10:23:32',
+                price: 122,
+                status: 'fail',
+                id: '3',
+                contact_name: '张三',
+                contact_tel: 13641822111
+            }
+        ]
+    }
+}
