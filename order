@@ -1,6 +1,6 @@
 {
-    "status": 'success',
-    "data": {
+    status: 'success',
+    data: {
         list: [
             {
                 km: 12,
