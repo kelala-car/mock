@@ -1,38 +1,42 @@
 {
-    "status": "success",
-    "data": {
-        "list": [
+    "status":"success",
+    "data":{
+        "list":[
             {
-                "type": "miniature",
-                "min_seat": 5,
-                "max_seat": 7,
-                "price_of_car": 800,
-                "km_price": 1.6,
-		"desc": "微型5-7座：800元/天  ，每公里1.6元"
+                "type":"miniature",
+                "min_seat":5,
+                "max_seat":7,
+                "price_of_car":800,
+                "km_price":1.6,
+                "desc_out_city":"微型5-7座：800元/天 ，每公里1.6元",
+                "desc_in_city":"微型：800元，包含100公里 8小时内。超出1公里4元，1小时40元"
             },
             {
-                "type": "minibus",
-                "min_seat": 17,
-                "max_seat": 19,
-                "price_of_car": 900,
-                "km_price": 1.8,
-		"desc": "小巴17-19座：900元/天，每公里1.8元"
+                "type":"minibus",
+                "min_seat":17,
+                "max_seat":19,
+                "price_of_car":900,
+                "km_price":1.8,
+                "desc_out_city":"小巴17-19座：900元/天，每公里1.8元",
+                "desc_in_city":"小巴：900元，包含100公里 8小时内。超出1公里5元，1小时50元"
             },
             {
-                "type": "midibus",
-                "min_seat": 23,
-                "max_seat": 33,
-                "price_of_car": 1100,
-                "km_price": 2.5,
-		"desc": "中巴23-33坐：1100元/天，每公里2.5元"
+                "type":"midibus",
+                "min_seat":23,
+                "max_seat":33,
+                "price_of_car":1100,
+                "km_price":2.5,
+                "desc_out_city":"中巴23-33坐：1100元/天，每公里2.5元",
+                "desc_in_city":"中巴：1100元，包含100公里 8小时内。超出1公里6元，1小时60元"
             },
             {
-                "type": "coach",
-                "min_seat": 53,
-                "max_seat": 53,
-                "price_of_car": 1400,
-                "km_price": 4,
-		"desc": "大巴53坐：1400元/天，每公里4元"
+                "type":"coach",
+                "min_seat":53,
+                "max_seat":53,
+                "price_of_car":1400,
+                "km_price":4,
+                "desc_out_city":"大巴53坐：1400元/天，每公里4元",
+                "desc_in_city":"大巴：1400元，包含100公里 8小时内。超出1公里6元，1小时60元"
             }
         ]
     }
