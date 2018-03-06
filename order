@@ -2,7 +2,7 @@
 	"status": "success",
 	"data": {
 		"list": [{
-				"km": 780公里,
+				"km": "780公里",
 				"type": "miniature",
 				"origin": "上海市灵石路718号",
 				"origin_latitude": "12.121212",
@@ -22,7 +22,7 @@
 				"contact_tel": 15346091656
 			},
 			{
-				"km": 536公里,
+				"km": "536公里",
 				"type": "minibus",
 				"origin": "上海市灵石路718号",
 				"origin_latitude": "12.121212",
@@ -42,7 +42,7 @@
 				"contact_tel": 13641822111
 			},
 			{
-				"km": 136公里,
+				"km": "136公里",
 				"type": "minibus",
 				"origin": "上海市灵石路718号",
 				"origin_latitude": "12.121212",
@@ -62,7 +62,7 @@
 				"contact_tel": 13641822111
 			},
 			{
-				"km": 18公里,
+				"km": "18公里",
 				"type": "coach",
 				"origin": "上海市灵石路718号",
 				"origin_latitude": "12.121212",
